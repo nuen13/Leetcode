@@ -1,0 +1,32 @@
+
+
+PROBLEM 217.Contains Duplicate 
+---
+code:
+
+if len(set(nums)) == len(nums): 
+    return False
+else: 
+    return True
+
+---
+
+Explaination: 
+- 4 built-in data types: set, list, tuple, dictionary 
+
+- set -> used to store data -> ExampleSet = {20, "Jojos", 23.12, "bruh"}
+- Set characteristic:
+    - unordered: ser doesnt maintain the order if the data insertion
+    - unchangable: once set we cant change
+    - heterogeneous: set can contains data of all types
+    - unique: doesnt allows duplications
+
+
+It works here because we compare the len of set(num) to num -> set(num) will remove all dup 
+based on its characteristic
+
+
+=============================================================================================
+
+PROBLEM 217.Contains Duplicate 
+---
