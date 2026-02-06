@@ -1,9 +1,4 @@
 ## TODO
-
-1491. Average Salary Excluding the Minimum and Maximum Salary
-0191. Number of 1 Bits
-1281. Subtract the Product and Sum of Digits of an Integer
-0976. Largest Perimeter Triangle
 1779. Find Nearest Point That Has the Same X or Y Coordinate
 1822. Sign of the Product of an Array
 1502. Can Make Arithmetic Progression From Sequence
@@ -36,8 +31,11 @@
 
 
 ## DOING
-1491. Average Salary Excluding the Minimum and Maximum Salary
 
+0976. Largest Perimeter Triangle
 
 ## DONE 
 1523. Count Odd Numbers in an Interval Range
+1491. Average Salary Excluding the Minimum and Maximum Salary
+0191. Number of 1 Bits
+1281. Subtract the Product and Sum of Digits of an Integer
