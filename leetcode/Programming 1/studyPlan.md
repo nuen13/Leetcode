@@ -2,8 +2,10 @@
 1779. Find Nearest Point That Has the Same X or Y Coordinate
 1822. Sign of the Product of an Array
 1502. Can Make Arithmetic Progression From Sequence
-0202. Happy Number
+
 1790. Check if One String Swap Can Make Strings Equal
+
+
 0589. N-ary Tree Preorder Traversal
 0496. Next Greater Element I
 1232. Check If It Is a Straight Line
@@ -33,8 +35,11 @@
 ## DOING
 
 0976. Largest Perimeter Triangle
-
+100.Same Tree
+200. Count Isaldn
+733. Flood full
 ## DONE 
+0202. Happy Number
 1523. Count Odd Numbers in an Interval Range
 1491. Average Salary Excluding the Minimum and Maximum Salary
 0191. Number of 1 Bits
